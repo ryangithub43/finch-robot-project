@@ -10,6 +10,33 @@ In this project-based learning experience, you will program a Finch 2.0 robot to
 3. Navigate a maze autonomously
 
 Your program must demonstrate your understanding of Java programming concepts from APCSA and object-oriented design principles while creating an engaging robot behavior.
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
+## Overview
+
+Dillon Rush is my partner, and he has helped with the code.
+We decided to make our robot do a dance, change the color of its LEDs, and play some music.
+
+During our time of programming, we had a difficult time with figuring out the notes of the Finch robot, but eventually, we figured out that each note were in increments of 2. Using this information, we were able to make our song that plays when the Finch runs. 
+
+## What part are you most proud of?
+
+We're most proud of actually making some progress in our coding. At some point during this process, we were stuck on some parts, but despite this issue, we completed this project with our expectations being met. 
+
+## Describe something you would improve or do differently if you had an opportunity to change something about your project.
+
+If we had more time to work on this project, we would have prioritized the functionality of our program; making songs easy to add while making them play correctly. Also, we would also create methods that access text files that represent the many possible songs the Finch robot could play. 
+
+
+
+
+
+
+
+
+
+
+______________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 ## Learning Objectives
 - Apply Java programming concepts in a physical computing context
